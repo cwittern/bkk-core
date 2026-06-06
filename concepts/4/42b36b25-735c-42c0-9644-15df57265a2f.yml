@@ -1,7 +1,7 @@
 uuid: 42b36b25-735c-42c0-9644-15df57265a2f
 type: concept
 concept: ABANDON
-definition: DISCARD SOMEONE WHOM ONE SHOULD CARE FOR.
+definition: DISCARD SOMEONE WHOM ONE SHOULD CARE FOR
 criteria:
 - type: old-chinese-criteria
   text: <div>1. The most general term for discarding something reluctantly, abandoning what one would have liked to keep, care for or continue to do, is qì [[棄]], which is more current under the concept DISCARD.</div><div>2. Shě [[捨]]/[[舍]] is less dramatic and less abrupt and can have abstract objects.</div>
@@ -11,3 +11,4 @@ bibliography:
 - bibliography_uuid: dd880ef8-7a84-4159-b910-4eac902c9273
   scope: '3'
   scope_unit: page
+notes: Now, have some note dude.
