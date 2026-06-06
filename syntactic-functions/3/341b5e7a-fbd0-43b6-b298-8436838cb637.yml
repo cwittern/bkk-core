@@ -5,3 +5,5 @@ description: nominal preceding and modifying a negative verb.
 notes: Negated verbal expression V[NEG] is a tentative notation that is useful to describe phrases involving so-called negative polarity items like English "in the least" which only comes in "not in the least".
 source:
   source_file: syntactic-functions.xml
+taxonomy_parents:
+- 91666c59-4a69-460f-8cd3-9ddbff370ae5
