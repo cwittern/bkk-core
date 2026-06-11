@@ -1,6 +1,6 @@
 uuid: 6876cf4e-626b-47aa-b6cf-4e626bf7aa31
 type: syntactic-function
-code: npro(adNab
+code: npro(adNab)
 source:
   source_file: syntactic-functions.xml
   resp: '#CH'
