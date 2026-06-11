@@ -1,6 +1,6 @@
 uuid: 0af7601a-27b6-48d3-b760-1a27b658d384
 type: syntactic-function
-code: npro{SUBJ}+V.postN{TOPIC}}
+code: npro{SUBJ}+V.postN{TOPIC}
 source:
   source_file: syntactic-functions.xml
   resp: '#CH'
