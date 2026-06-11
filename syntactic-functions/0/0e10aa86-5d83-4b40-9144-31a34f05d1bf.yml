@@ -1,6 +1,6 @@
 uuid: 0e10aa86-5d83-4b40-9144-31a34f05d1bf
 type: syntactic-function
-code: 'vt(+N1.)adV{PRED}:postN2{SUBJ}:'
+code: vt(+N1.)adV{PRED}:postN2{SUBJ}
 description: transitive verb with its omitted and contextually determinate object, this preceding and modifying a verbal predicate, that whole construction being in construction with a preceding sentence.
 source:
   source_file: syntactic-functions.xml
